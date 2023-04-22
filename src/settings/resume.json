@@ -2,13 +2,13 @@
     "basics": {
         "name": "Duong Le",
         "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
+        "email": "duole.hcm@gmail.com",
         "phone": "(XXX) XXX-XXXX",
-        "picture": "mt.png",
-        "x_title": "Hello, I'm",
+        "picture": "logo.png",
+        "x_title": "Hello, I'm Duong Le",
         "job1": "Web",
         "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "description": "Hello! I'm Duong Le!",
         "summary": "based in Viet Nam, TP.HCM.",
         "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
         "url": "https://taniyow.vercel.app/",
@@ -23,8 +23,8 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "duole.hcm@gmail.com",
+                "url": "mailto:duole.hcm@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {

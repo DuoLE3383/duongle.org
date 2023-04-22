@@ -4,7 +4,7 @@
   "homepage": "",
   "description": "",
   "repository": "https://github.com/taniyow/react-portfolio",
-  "author": "Duong Le <markcmtan@gmail.com>",
+  "author": "Duong Le <duole.hcm@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
