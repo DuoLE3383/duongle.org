@@ -1,24 +1,24 @@
 {
     "basics": {
         "name": "Duong Le",
-        "label": "Web Developer",
+        "label": "Blockchain Marketing",
         "email": "duole.hcm@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "logo.png",
         "x_title": "Hello, I'm Duong Le",
-        "job1": "Web",
-        "job2": "Developer",
+        "job1": "Marketing",
+        "job2": "Blockchain",
         "description": "Hello! I'm Duong Le!",
         "summary": "based in Viet Nam, TP.HCM.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown,f-nft",
         "url": "https://taniyow.vercel.app/",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "city": "Ho Chi Minh",
+            "country": "VietNam",
+            "countryCode": "VN",
+            "region": "Ho Chi Minh"
         },
         "profiles": [
             {
@@ -29,32 +29,32 @@
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "F-NFT",
+                "url": "https://www.linkedin.com/in/f-nft-project-887624231/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "F-NFT",
+                "url": "https://docs.f-nft.us/f-nft-project",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
+                "username": "F-NFT",
+                "url": "https://f-nft.pages.dev/",
                 "x_icon": "fab fa-gitlab"
             },
             {
                 "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
+                "username": "CryptoCould9",
+                "url": "https://t.me/cryptocloud9_io",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
                 "username": "taniyow#9142",
-                "url": "https://discord.com",
+                "url": "https://discord.gg/GZQpHgd78N",
                 "x_icon": "fab fa-discord"
             }
         ]
@@ -63,57 +63,57 @@
         {
             "company": "Company",
             "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
+            "website": "https://docs.f-nft.us/f-nft-project/",
+            "startDate": "2021-01-01",
+            "endDate": "2026-01-01",
+            "summary": "F-NFT Project",
             "highlights": ["Started the company"]
         }
     ],
     "volunteer": [
         {
             "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "position": "Founder",
+            "website": "https://f-nft.pages.dev/",
+            "startDate": "2021-01-01",
+            "endDate": "2026-01-01",
+            "summary": "Revolution Of Fashion",
+            "highlights": ["METAVERSE AND BLOCKCHAIN"]
         }
     ],
     "education": [
         {
             "institution": "University",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "area": "Blockchain Development",
+            "studyType": "Senior Research",
+            "startDate": "2016-01-01",
+            "endDate": "2021-01-01",
+            "gpa": "",
+            "courses": [""]
         }
     ],
     "awards": [
         {
             "title": "Award",
-            "date": "2014-11-01",
+            "date": "2020-11-01",
             "awarder": "Company",
-            "summary": "There is no spoon."
+            "summary": ""
         }
     ],
     "publications": [
         {
             "name": "Publication",
             "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
+            "releaseDate": "2021-10-01",
+            "website": "https://f-nft.pages.dev/",
             "summary": "Description..."
         }
     ],
     "skills": [
         {
-            "name": "Web Development",
-            "level": "Master",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Blockchain Development",
+            "level": "Senior Developer",
+            "keywords": ["Blockchain", "Smart Contract", "NFT"]
         }
     ],
     "languages": [
@@ -138,7 +138,7 @@
     ],
     "references": [
         {
-            "name": "Jane Doe",
+            "name": "F-NFT",
             "reference": "Reference..."
         }
     ]
