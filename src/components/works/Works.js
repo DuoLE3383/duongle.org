@@ -8,11 +8,11 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
 // Import ../../assets/recentprojects/
-import Portfolio from '../../assets/recentprojects/react-portfolio.png';
-import Veritru from '../../assets/recentprojects/veritru.png';
-import Lofo from '../../assets/recentprojects/lofo.png';
-import Startup from '../../assets/recentprojects/startup.png';
-import Lacalle from '../../assets/recentprojects/lacalle.png';
+import Portfolio from '../../assets/recentprojects/react-portfolio.jpg';
+import Veritru from '../../assets/recentprojects/veritru.jpg';
+import Lofo from '../../assets/recentprojects/lofo.jpg';
+import Startup from '../../assets/recentprojects/startup.jpg';
+import Lacalle from '../../assets/recentprojects/lacalle.jpg';
 
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -27,45 +27,37 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'React Portfolio', 
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
-      alter: 'React Portfolio',
+      title: 'F-NFT Portfolio', 
+      description: `NFTs, also known as immutable tokens, are based on Blockchain technology. With this technology, all visual, written, and audio works can be stored in digital format`,
+      alter: 'F-NFT Portfolio',
       image: `${Portfolio}`,
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
-      alter: 'VeriTru Project',
+      title: 'F-NFT Project', 
+      description: `Non-fungible Tokens (NFTs) are a method of proving digital ownership. Here are the top three things we think you should know about them as an artist or art collector so you can use them safely and easily`,
+      alter: 'F-NFT Project',
       image: `${Veritru}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
+      title: 'F-NFT Project', 
+      description: `IDEAS FOR A 3D FASHION BRAND CREATED WITH OBJECTIVES TO BRING A REAL VALUE TO THE NFT COMMUNITY`,
+      alter: 'F-NFT Project',
       image: `${Lofo}`,
     },
     { 
       id: 4,
       title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
+      description: `F-NFT Project`,
       alter: 'Startup Project',
       image: `${Startup}`,
     },
     { 
       id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
+      title: 'F-NFT Collection', 
+      description: ``,
+      alter: 'F-NFT Collection',
       image: `${Lacalle}`,
     },
   ]);
