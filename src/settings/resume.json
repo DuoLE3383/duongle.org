@@ -10,7 +10,7 @@
         "job2": "Blockchain",
         "description": "Hello! I'm Duong Le!",
         "summary": "based in Viet Nam, TP.HCM.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown,f-nft",
+        "keywords": "personal,website,portfolio,template,kit,mark,tan,duong le,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown,f-nft",
         "url": "https://duongle-org.pages.dev/",
         "location": {
             "address": "XX XXXXXstreet",
@@ -53,7 +53,7 @@
             },
             {
                 "network": "Discord",
-                "username": "taniyow#9142",
+                "username": "f-nft",
                 "url": "https://discord.gg/GZQpHgd78N",
                 "x_icon": "fab fa-discord"
             }
