@@ -6,12 +6,12 @@
         "phone": "(XXX) XXX-XXXX",
         "picture": "logo.png",
         "x_title": "Hello, I'm Duong Le",
-        "job1": "Marketing",
-        "job2": "Blockchain",
+        "job1": "Marketing Solutions",
+        "job2": "Blockchain Developer",
         "description": "Hello! I'm Duong Le!",
-        "summary": "based in Viet Nam, TP.HCM.",
+        "summary": "based in HCM City, Viet Nam.",
         "keywords": "personal,website,portfolio,template,kit,mark,tan,duong le,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown,f-nft",
-        "url": "https://duongle-org.pages.dev/",
+        "url": "https://duongle.org/",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
@@ -42,7 +42,7 @@
             {
                 "network": "GitLab",
                 "username": "F-NFT",
-                "url": "https://f-nft.pages.dev/",
+                "url": "https://duongle.org/",
                 "x_icon": "fab fa-gitlab"
             },
             {
@@ -74,7 +74,7 @@
         {
             "organization": "Organization",
             "position": "Founder",
-            "website": "https://f-nft.pages.dev/",
+            "website": "https://duongle.org/",
             "startDate": "2021-01-01",
             "endDate": "2026-01-01",
             "summary": "Revolution Of Fashion",
@@ -105,7 +105,7 @@
             "name": "Publication",
             "publisher": "Company",
             "releaseDate": "2021-10-01",
-            "website": "https://f-nft.pages.dev/",
+            "website": "https://duongle.org/",
             "summary": "Description..."
         }
     ],
