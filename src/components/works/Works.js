@@ -10,7 +10,7 @@ import Portfolio from '../../assets/recentprojects/1.gif';
 import Veritru from '../../assets/recentprojects/2.gif';
 import Lofo from '../../assets/recentprojects/lofo.jpg';
 import Startup from '../../assets/recentprojects/3.gif';
-import Lacalle from '../../assets/recentprojects/Welcome.gif';
+import Lacalle from '../../assets/recentprojects/Welcome.svg';
 const useStyles = makeStyles((theme) => ({
   main: {
     maxWidth: '100vw',
