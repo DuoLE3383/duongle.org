@@ -48,9 +48,9 @@ export const Works = () => {
     },
     { 
       id: 4,
-      title: 'Startup Project', 
-      description: `F-NFT Project, Cryptocloud9`,
-      alter: 'Startup Project',
+      title: '3D, 2D Graphics Design', 
+      description: `5 years Design Branding, Webdding, Ecommerce, Advertising`,
+      alter: 'Graphics Design',
       image: `${Startup}`,
     },
     { 
