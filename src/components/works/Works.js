@@ -8,11 +8,11 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
 // Import ../../assets/recentprojects/
-import Portfolio from '../../assets/recentprojects/react-portfolio.jpg';
-import Veritru from '../../assets/recentprojects/veritru.jpg';
+import Portfolio from '../../assets/recentprojects/1.gif';
+import Veritru from '../../assets/recentprojects/2.gif';
 import Lofo from '../../assets/recentprojects/lofo.jpg';
-import Startup from '../../assets/recentprojects/startup.jpg';
-import Lacalle from '../../assets/recentprojects/lacalle.jpg';
+import Startup from '../../assets/recentprojects/3.gif';
+import Lacalle from '../../assets/recentprojects/Welcome.gif';
 
 const useStyles = makeStyles((theme) => ({
   main: {
