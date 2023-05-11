@@ -34,8 +34,8 @@ export const Works = () => {
     },
     { 
       id: 2,
-      title: 'Digital Marketing', 
-      description: `6 years Branding, Design and Developing Business system`,
+      title: 'Digital Marketing - Software Development', 
+      description: `6 years Branding, Design and Developing Business System`,
       alter: 'Digital Marketing',
       image: `${Veritru}`,
     },
@@ -56,7 +56,7 @@ export const Works = () => {
     { 
       id: 5,
       title: 'Blockchain Executive', 
-      description: `7 years of development, financial, training, mining, security`,
+      description: `7 years of development, financial, training, mining, securities, solutions`,
       alter: 'Blockchain Executive',
       image: `${Lacalle}`,
     },
