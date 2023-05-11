@@ -4,16 +4,13 @@ import { useState } from "react";
 import { Container } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import { TextDecrypt } from "../content/TextDecrypt";
-
 import './Works.css';
-
 // Import ../../assets/recentprojects/
 import Portfolio from '../../assets/recentprojects/1.gif';
 import Veritru from '../../assets/recentprojects/2.gif';
 import Lofo from '../../assets/recentprojects/lofo.jpg';
 import Startup from '../../assets/recentprojects/3.gif';
 import Lacalle from '../../assets/recentprojects/Welcome.gif';
-
 const useStyles = makeStyles((theme) => ({
   main: {
     maxWidth: '100vw',
@@ -21,7 +18,6 @@ const useStyles = makeStyles((theme) => ({
     marginBottom: "auto",
   },
 }));
-
 export const Works = () => {
   const classes = useStyles();
   const [projects, setProjects] = useState([
@@ -61,7 +57,6 @@ export const Works = () => {
       image: `${Lacalle}`,
     },
   ]);
-
   return (
     <section id="works">
       <Container component="main" className={classes.main} maxWidth="md">
