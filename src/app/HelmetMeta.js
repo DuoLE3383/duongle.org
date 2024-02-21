@@ -7,7 +7,6 @@ export const HelmetMeta = () => {
     return (
         <Helmet>
             <meta name="theme-color" content={Settings.colors.primary} />
-            <meta name="google-adsense-account" content="ca-pub-1924299470979517">
             <title>{Resume.basics.name} | {Resume.basics.location.city}, {Resume.basics.location.country}</title>
             <meta name="author" content={Resume.basics.name} />
             <meta name="description" content={Resume.basics.description} />
