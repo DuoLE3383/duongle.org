@@ -33,14 +33,14 @@ export const Works = () => {
       title: 'Digital Marketing - Software Development', 
       description: `6 years Branding, Design and Developing Business System`,
       alter: 'Digital Marketing',
-      // image: `${Veritru}`,
+      image: `${Veritru}`,
     },
     { 
       id: 3,
       title: 'HCMC Conservatory of Music', 
       description: `Graduated from Ho Chi Minh City Conservatory of Music 2003`,
       alter: 'F-NFT Project',
-      image: `${Lofo}`,
+      // image: `${Lofo}`,
     },
     { 
       id: 4,
