@@ -22,9 +22,6 @@ export const About = () => {
   const greetings = "Hello there!";
   const aboutme = `I'm ${FirstName} ${LastName}, a multidisciplinary 
                   marketing & blockchain. I'm always down for something new and challenging!
-                  I'm here to help you create beautifully formatted websites. 
-                  My projects mostly includes web development.`;
-
   return (
     <section id="about">
       <Container component="main" className={classes.main} maxWidth="md">
