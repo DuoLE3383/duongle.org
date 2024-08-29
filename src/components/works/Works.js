@@ -33,7 +33,7 @@ export const Works = () => {
       title: 'Digital Marketing - Software Development', 
       description: `6 years Branding, Design and Developing Business System`,
       alter: 'Digital Marketing',
-      image: `${Veritru}`,
+      // image: `${Veritru}`,
     },
     { 
       id: 3,
