@@ -9,7 +9,7 @@ import './Works.css';
 import Portfolio from '../../assets/recentprojects/1.gif';
 import Veritru from '../../assets/recentprojects/2.gif';
 import Lofo from '../../assets/recentprojects/lofo.jpg';
-import Startup from '../../assets/recentprojects/Welcome.gif';
+// import Startup from '../../assets/recentprojects/Welcome.gif';
 import Lacalle from '../../assets/recentprojects/Welcome.svg';
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -47,7 +47,7 @@ export const Works = () => {
       title: '3D, 2D Graphics Design', 
       description: `5 years Design Branding, Webdding, Ecommerce, Advertising`,
       alter: 'Graphics Design',
-      image: `${Startup}`,
+      image: `${Lacalle}`,
     },
     { 
       id: 5,
